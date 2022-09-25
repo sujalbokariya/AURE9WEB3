@@ -1,0 +1,68 @@
+body {
+    background-image: url('Indonesia_Bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  }
+
+  
+  .aurelogo {
+      display: flex;
+      flex: 1;
+      justify-content: center;
+      align-items: center;
+      /* flex-direction: column; */
+      margin-top: 4%;
+      /* text-align: center; */
+    }
+    
+    .aurelogo-img {
+        /* text-align: center; */
+        /* height: 300px;   */
+        width: 400px;
+        object-fit: cover;
+        /* flex: 1;   */
+        margin-bottom: 100px;
+    }
+    
+    .text-row {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+        align-self: flex-end;
+        margin-top: 100px;
+        padding: 3%;
+    }
+
+/* .aurelogo-text {
+    text-align: center;
+    color: black;  
+    width: 300px;
+    flex: 1;  
+} */
+/* nav {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    justify-content: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+nav ul li a:hover{
+    color: #ff5ea2;
+}
+
+.icon {
+    width: 30px;
+} */
